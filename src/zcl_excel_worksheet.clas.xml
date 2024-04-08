@@ -984,6 +984,14 @@
      <DESCRIPT>Top left range cell</DESCRIPT>
     </SEOCOMPOTX>
    </DESCRIPTIONS>
+   <DESCRIPTIONS_SUB>
+    <SEOSUBCOTX>
+     <CMPNAME>CONVERT_TO_TABLE</CMPNAME>
+     <SCONAME>IV_EMPTY_ROWS</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Flag Keep empty rows</DESCRIPT>
+    </SEOSUBCOTX>
+   </DESCRIPTIONS_SUB>
   </asx:values>
  </asx:abap>
 </abapGit>
